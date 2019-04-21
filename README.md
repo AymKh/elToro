@@ -6,9 +6,9 @@ Cows and bulls game coded in C .
 #Coded by AymKh 2019
 
 
-The code is messy and has alot of bugs, for instance the user input is not being monitered .
+The code is messy and has alot of bugs, for instance the user input is not being monitored .
 
-when the game starts a logo screen will display along with some rules .
+when the game starts a logo screen will be displayed along with some rules .
 
 <img src="readMe/1.png" width="500">
 
